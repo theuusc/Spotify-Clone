@@ -26,6 +26,12 @@ This project aims to replicate the original Spotify website, providing a similar
 4. **State Management with React:**
    - Use React to efficiently manage the application state.
    - Create modular components for easy maintenance and scalability.
+  
+## Getting Started
+
+As Spotify Clone is currently under active development, it is not yet available for public access. I'm working hard to bring you an exciting platform for exploring your favorites artists.
+
+In the meantime, feel free to check out the source code and contribute to the project.
 
 ## Issues and Feedback
 
